@@ -1,0 +1,92 @@
+﻿Change Log for برنامہ نویسی در زبان سی
+Author: سید عرفان احمد
+
+-------------------------------------------------------------
+Version 007
+*	Released 21nd October, 2018
+*	Nature of update: Minor
+
+*	Changed شش اعشاری  to شش عشری
+*	Minor sentence changes (page count unaltered)
+*	Served from Google drive
+
+-------------------------------------------------------------
+Version 006
+*	Released 24nd Sept, 2018
+*	Nature of update: Important
+
+*	Please download v006 and discard old editions.
+*	نرم افزاری = software,  سخت افزاری = hardware, 57 spelling changes made globally
+*	could also potentially call these  نرم اوزاری، سخت اوزاری
+*	In Farsi, ابزار, افزار = tool, means, instrument, ابزار is old usage.
+*	In Urdu a modified pronunciation is اوزار
+*	Since افراز  is a word in Urdu and افزار is not, 
+	this occurred early on due to Urdu only spell check (My apologies)
+
+*	---------------------------------------
+*	Lesson: Learn Farsi
+*	Lesson: Run Farsi dictionary spell checker as well
+*	Lesson: Get better glasses
+*	Lesson: Use better fonts
+*	Lesson: Hear someone say it once in Farsi
+	---------------------------------------
+
+*	QR code added to title page ج
+*	Added a line about borrowing Farsi terminology, in خلاصہ، ابتدائیہ
+*	I have been told that I use names of functions without () while writing about them.
+*	Sometimes the name of the function is the intended item, so it is not critical.
+*	Point noted: I am not consistent; It will be an ongoing improvement where applicable
+	----------------------------------------
+
+*	Page count is unaltered at 608 pages
+*	press quality output 7x9 inches will be kept for online editions for now
+
+
+-------------------------------------------------------------
+Version 005
+*	Released 22nd Sept, 2018
+
+*	slight increase in size due to press quality output
+*	changed اعشاری in the table on page 106 to عشری,
+*	Improved the documentation chapter
+*	Corrected code corresponding to flowchart (p541)
+*	Updated word count graphic
+*	Page count is unaltered at 608 pages
+
+-------------------------------------------------------------
+Version 004
+*	Released 28th Aug, 2018
+
+*	Minor sentence changes, page count unaltered
+*	Github address added to book cover
+*	Term for code repository changed to برنامی نسخہ گاہ	
+*	Paragraph 26.7 added, 26.8 updated
+*	Harmonized exercise numbering for all chapters
+*	Word Count graphic in appendix updated
+
+-------------------------------------------------------------
+Version 003
+
+*	Released 25th July, 2018
+
+*	Page count unchanged
+*	Added low-res printing rights
+*	Added the github address to the title
+
+*	Minor format changes to produce a better pdf
+*	Minor word changes
+*	Added 3 omitted entries in the terminology table
+*	Have not updated the word count figure in appendix
+
+
+-------------------------------------------------------------
+Version 002
+
+*	Released 7th July, 2018
+	
+-------------------------------------------------------------
+Version 001
+
+*	Not circulated (for internal review only)
+	
+-------------------------------------------------------------
