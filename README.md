@@ -6,5 +6,5 @@ Purpose: To help Urdu speakers acquire the C-language with text in their native 
 
 برنامہ نویسی در زبان سی، اصطلاحات، بنیادی اصول اور استعمال
 
-![Cover](clang_book_cover.png)
+[![C language Urdu book by Syed Irfan Ahmed](clang_book_cover.png)](https://syed-irfan-ahmed.github.io/)
 
